@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2547,5): warning MSB3290: Failed to create the wrapper assembly for type library "{bee4bfec-6683-3e67-9167-3c0cbc68f40a}". Type library 'System' was exported from a CLR assembly and cannot be re-imported as a CLR assembly.
+  BaseGenerator.cpp
+BaseGenerator.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Challenge.cpp
+  Unknown compiler version - please run the configure tests and report the results
+Challenge.cpp(129): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(133): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(140): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(142): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(144): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(177): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(183): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(189): warning C4018: '<': signed/unsigned mismatch
+Challenge.cpp(196): warning C4018: '<': signed/unsigned mismatch
+  FossilGenerator.cpp
+  Main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  RenewableGenerator.cpp
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  BradyCodeChallenge.vcxproj -> C:\Users\kiera\OneDrive\Documents\Visual Studio 2017\Projects\BradyCodeChallenge\Debug\BradyCodeChallenge.exe
+          1 file(s) copied.
